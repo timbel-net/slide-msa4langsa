@@ -33,5 +33,5 @@ transition: fade-out
 ---
 # <span v-mark.underline.orange>시스템</span>
 
-<img src="./system.svg" alt="system architecture" />
+<img src="https://raw.githubusercontent.com/timbel-net/slide-msa4langsa/main/system.svg" alt="system architecture" />
 
